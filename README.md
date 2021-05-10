@@ -6,4 +6,4 @@ Mechanisms of Action (MoA) Prediction Can you improve the algorithm that classif
 
 O qual você pode conferir na integra no link <https://www.kaggle.com/c/lish-moa/overview/description>. data de acesso (04/05/2021)
 
-
+* Meu primeiro estudo na área de dados, ainda há muito o que melhorar, um universo para descobrir!
